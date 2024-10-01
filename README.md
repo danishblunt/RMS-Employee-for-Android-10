@@ -1,7 +1,7 @@
 # RMS-Employee-for-Android-10
-
-How to install
-Download SAI: Split APKs Installer
-Press 'Select File button'
-Select all files
+<br />
+How to install<br />
+Download SAI: Split APKs Installer<br />
+Press 'Select File button'<br />
+Select all files<br />
 Press install
